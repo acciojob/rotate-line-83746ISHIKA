@@ -1,4 +1,3 @@
-
 const line = document.getElementById('line');
 let angle = 0;
 
